@@ -1,0 +1,7 @@
+namespace PL {
+
+class Parser {
+
+};
+
+}

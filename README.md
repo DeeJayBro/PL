@@ -16,3 +16,4 @@ No support for Mac btw     ;)
 Maybe:
 -direct OpenGL implementation
 -basic machine learning algorithms
+-native GPU processing using GLSL

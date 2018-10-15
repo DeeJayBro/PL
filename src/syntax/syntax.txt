@@ -1,0 +1,8 @@
+import (file): Gives the user access to another .pl file from the current file
+use (lib): Gives the user access to a c++ library from the current file
+
+List<type>: 1D Dynamic Array
+LabeledList<type, type>: 2D Array
+Cubemap<type, type, type>: 3D Array
+Stack<type>: 1D stacked Array
+...
